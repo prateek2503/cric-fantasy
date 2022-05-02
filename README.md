@@ -38,3 +38,12 @@ NeDB is used and any change done is appended. This creates duplicates of the sam
 2. `pm2 start cf` (To consolidate updates)
 3. `pm2 stop cf`
 4. Make the changes and then start again 
+5. go to DB file
+6. user VI
+7. insert keyboard
+8. update record
+9. esc
+10. :wq! press enter
+11. `pm2 start cf`
+12. `pm2 stop cf` (To consolidate updates)
+33. `pm2 start cf`
